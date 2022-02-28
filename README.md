@@ -1,10 +1,10 @@
 # MyAutoPano 
 Author - Abhilash Mane and Adwait Patole
 ## Original Images to be stitched
-# ![1](https://github.com/abhilash1998/My-AutoPano/blob/main/images/1.jpg)
-# ![2](https://github.com/abhilash1998/My-AutoPano/blob/main/images/2.jpg)
-# ![3](https://github.com/abhilash1998/My-AutoPano/blob/main/images/3.jpg)
-# ![4](https://github.com/abhilash1998/My-AutoPano/blob/main/images/4.jpg)
+# ![1](https://github.com/abhilash1998/My-AutoPano/main/images/1.jpg)
+# ![2](https://github.com/abhilash1998/My-AutoPano/main/images/2.jpg)
+# ![3](https://github.com/abhilash1998/My-AutoPano/main/images/3.jpg)
+# ![4](https://github.com/abhilash1998/My-AutoPano/main/images/4.jpg)
 
 ## Final Panorama
 # ![5](https://github.com/abhilash1998/My-AutoPano/blob/main/images/5.jpg)
